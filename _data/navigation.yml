@@ -1,0 +1,10 @@
+- name: Aktuelles
+  link: index.html
+- name: Über uns
+  link: ueberuns.html
+- name: Vorstand
+  link: vorstand.html
+- name: Termine
+  link: termine.html
+- name: Impressum
+  link: impressum.html

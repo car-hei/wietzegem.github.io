@@ -1,0 +1,3 @@
+  {% for item in site.data.navigation %}
+    <li><a href="../{{ item.link }}" {% if page.url == item.link %}{% endif %}>{{ item.name }}</a></li>
+  {% endfor %}

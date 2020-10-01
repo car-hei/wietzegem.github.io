@@ -1,0 +1,154 @@
+body {
+ color: #585858;
+ background-color: #E6E6E6;
+ font-family: verdana;
+ font-size: 0.8em;
+ line-height:1.5;
+ display: grid;
+ grid-template-columns: auto 730px 210px auto;
+ margin: 0px;
+ padding: 0px;
+ }
+
+h1 {
+ color: #000000;
+ font-size: 1.4em;
+ display: inline;
+ }
+
+h2 {
+ font-size: 1.2em;
+ }
+
+h3 {
+ color: #000000;
+ text-align: center;
+ }
+
+a, a:link, a:visited, a:hover, a:active {
+ color: #872B31;
+ }
+
+header {
+ grid-column: 2/4;
+ box-shadow: 10px 20px 30px grey;
+ background-color: #E6E6E6;
+ }
+
+navigation {
+ grid-column: 2/4;
+  box-shadow: 10px 20px 30px grey;
+ background-color: #E6E6E6;
+ }
+
+main {
+ grid-column: 2/3;
+ box-shadow: 10px 30px 30px grey;
+ background-color: #E6E6E6;
+ }
+ 
+postlist {
+ grid-column: 3/4;
+ box-shadow: 10px 20px 30px grey;
+ background-color: #E6E6E6;
+ }
+
+.ctmain {
+ padding-left: 25px;
+ padding-right: 25px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+ }
+
+ul {
+ list-style-type: none;
+ }
+
+td.funktion {
+ font-weight: bold;
+ vertical-align: top;
+ padding-right: 10px;
+}
+
+.banner {
+ margin: 0px;
+ padding: 0px;
+ }
+ 
+#navbar {
+ background-color: #872B31;
+ border-top: 1px #FFFFFF solid;
+ border-bottom: 1px #FFFFFF solid;
+ padding: 0px;
+ margin: 0px;
+ }
+
+#navlist {
+ margin: 0px;
+ padding: 0px;
+ padding-left: 30px;
+ padding-bottom: 2px;
+ padding-top: 2px;
+ }
+
+#navlist a, #navlist a:link, #navlist a:visited {
+ padding-left: 15px;
+ padding-right: 15px;
+ text-decoration: none;
+ color: #FFFFFF;
+ }
+
+#navlist a:hover, #navlist a:active, #navlist a:focus {
+ padding-left: 15px;
+ padding-right: 15px;
+ text-decoration: underline;
+ }
+
+#navlist li {
+ padding-right: 65px;
+ display: inline;
+ font-size: 1.2em;
+ }
+
+#navlist ul {
+ margin: 0px;
+ padding: 0px;
+ }
+
+#navlist #active a { color: #000000; }
+
+#footer {
+ background-color: #872B31;
+ border-top: 1px #FFFFFF solid;
+ border-bottom: 1px #FFFFFF solid;
+ padding: 2px;
+ padding-right: 15px;
+ color: #FFFFFF;
+ text-align: right;
+ }
+ 
+#footer a, #footer a:link, #footer a:visited {
+ text-decoration: none;
+ color: #FFFFFF;
+ }
+ 
+a.back:link, a.back:visited {
+ color: #872B31;
+ text-decoration: none; 
+ }
+
+a.back:active, a.back:hover {
+ color: #872B31;
+ text-decoration: underline;
+ }
+ 
+post ul {
+ margin: 0px;
+ padding: 0px;
+ }
+ 
+a.post:link, a.post:visited, a.post:active, a.post:hover {
+ color: #000000;
+ text-decoration: none; 
+ }
+ 

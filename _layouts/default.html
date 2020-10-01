@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <title>{{ site.name }} · {{ page.title }}</title>
+	<link rel="stylesheet" href="../assets/css/styles.css">
+	<link rel="icon" type="image/ico" href="../assets/img/favicon.ico"/>
+	<!-- {% feed_meta %} -->
+    {% seo %}
+  </head>
+  <body>
+   <header>
+    <div class="banner">
+	 <img src="../assets/img/wgem_banner.jpg">
+	</div>
+   </header>
+   <navigation>
+	<div id="navbar"><ul id="navlist">
+	{% include navigation.md %}
+	</ul></div>
+	</navigation>
+	<main>
+	<div class="ctmain">
+	{{ content }}
+	</div>
+	</main>
+	<postlist>
+	<h3>Mitglied werden?</h3>
+	<div align="center"><a href="../assets/doc/WG_Beitrittsformular.pdf">Download Beitrittsformular</a></div>
+	<hr>
+	<h3>Letzte Meldungen</h3>
+        {% include postlist.md %}
+	</postlist>
+	<navigation>
+	<div id="footer">
+        &#169; 2012-2020 Wietze-Gemeinschaft · E-Mail: <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#107;&#111;&#110;&#116;&#097;&#107;&#116;&#064;&#119;&#105;&#101;&#116;&#122;&#101;&#103;&#101;&#109;&#101;&#105;&#110;&#115;&#099;&#104;&#097;&#102;&#116;&#046;&#100;&#101;">kontakt(at)wietzegemeinschaft.de</a> · <a href="../impressum.html#datenschutz">Datenschutzhinweis</a>
+        </div> 
+	</navigation>
+  </body>
+</html>
