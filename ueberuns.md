@@ -1,7 +1,7 @@
 ---
 title: Geschichte
 ---
-# Die Entstehungsgeschichte der Wietzegemeinschaft
+# Die Entstehungsgeschichte der Wietze-Gemeinschaft
 
 Schon im Jahr 1932 gab es um die 200 Gebäude im Waldgebiet Bissendorf-Wietze. Meist handelte es sich um Lauben, einfache Hütten und wenige Häuser. Sie wurden überwiegend als Wochend- bzw. Ferienhäuser genutzt. Drei von diesen Häusern besaßen schon damals den fast unglaublichen Luxus von fließendem Wasser und elektrischem Licht. Auf Grund der dichten Bewaldung hat man kaum ein Gebäude von der Straße oder den Wegen sehen können.
 
