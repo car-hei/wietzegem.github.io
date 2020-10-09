@@ -132,11 +132,7 @@ td.funktion {
  color: #FFFFFF;
  }
  
-a.back:link, a.back:visited {
- color: #872B31;
- }
-
-a.back:active, a.back:hover {
+a.back:link, a.back:visited a.back:active, a.back:hover {
  color: #872B31;
  }
  
