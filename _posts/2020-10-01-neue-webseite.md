@@ -6,4 +6,4 @@ Auch wenn es auf den ersten Blick vielleicht nicht gleich auffällt, haben wir e
 
 Zwar sind noch nicht alle bisherigen Inhalte in gewohnter Form abrufbar, trotzdem aber möchten wir schon jetzt weiter online verfügbar sein. Inhaltlich wird sich hier sicherlich in Zukunft noch einiges tun.
 
-Zunächst wünschen wir vom Vorstand der Wietzegemeinschaft Euch weiter eine gute Zeit und bleibt gesund!
+Zunächst wünschen wir vom Vorstand der Wietze-Gemeinschaft Euch weiter eine gute Zeit und bleibt gesund!
