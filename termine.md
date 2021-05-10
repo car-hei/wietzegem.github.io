@@ -10,11 +10,11 @@ Hier werden zukünftig anstehende Termine und Veranstaltungen aufgeführt.
 <tr><th>Datum</th><th>Veranstaltung</th><th>Ort</th><th>Uhrzeit</th></tr>
 
 <tr>
-<td>Test</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> </td> <td> </td> <td> </td> <td> </td>
 </tr>
+
+
+
 
 </table>
 
