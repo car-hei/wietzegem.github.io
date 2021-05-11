@@ -5,8 +5,8 @@ title: Vorstand
 
 Für Hinweise, Fragen und Anregungen stehen Ihnen die Mitglieder des Vorstandes gerne zur Verfügung:
 <table align=center>
-<tr><td class="funktion">1. Vorsitzener</td><td>Jörg Clausing<br>Tel. 05130 6447</td></tr>
-<tr><td class="funktion">2. Vorsitzene</td><td>Heidrun Miesner<br>Tel. 05130 6099919 </td></tr>
+<tr><td class="funktion">1. Vorsitzender</td><td>Jörg Clausing<br>Tel. 05130 6447</td></tr>
+<tr><td class="funktion">2. Vorsitzende</td><td>Heidrun Miesner<br>Tel. 05130 6099919 </td></tr>
 <tr><td class="funktion">Schriftführer</td><td>Max Hüsken<br>Tel. 01520 6948018</td></tr>
 <tr><td class="funktion">Kassenwart</td><td>Reiner Dykierek<br>Tel. 05130 582465</td></tr>
 </table>
