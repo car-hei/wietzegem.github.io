@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: 75-jähriges Jubiläum der Wietze-Gemeinschaft in 2022
