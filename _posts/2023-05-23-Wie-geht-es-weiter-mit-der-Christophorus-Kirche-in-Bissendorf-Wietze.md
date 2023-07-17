@@ -1,3 +1,4 @@
+---
 layout: post
 title: Wie geht es weiter mit der Christophoruskirche in Bissendorf-Wietze 
 ---
