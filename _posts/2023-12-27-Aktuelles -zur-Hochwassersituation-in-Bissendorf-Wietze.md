@@ -27,6 +27,26 @@ Die Lage ist angespannt aber noch nicht dramatisch. Hoffen wir das so bleibt. Wi
 Viele Grüße Daniel Leide 
 Ortsbürgermeister BiWi"
 
+28.12.2023:
+
+Vierter aktueller Zwischenbericht des Ortsbürgermeisters Herrn Leide:
+Der Pegelstand der Wietze ist in Bissendorf-Wietze um ca. 12 cm (10:00 Uhr gesunken).
+Der Pegel in Wiekenberg ist immer noch 24cm höher als das Hochwasser von 1961.
+Heute wurde von Firma Block aus Bissendorf-Wietze bei der Hundeschule abgepumpt.
+Am Wietzestrand haben wir durch min 1000 Sandsäcken auf zwei Grundstücken einen Damm gebaut.
+Unterstützt wurden wir von der Freiwilligen Feuerwehr Bissendorf Scherenbostel und dem Bauhof der Gemeinde Wedemark.
+Morgen werden wir nochmal 3.000 Sandsäcke an unserer Kirche befüllen. Sie werden dann an der Kirche und der KiTa zur Verfügung stehen.
+Die Wettervorhersage ist, das am Freitag leicht regnen soll, am Sonnabend kaum Regen, Sonntag an Sylvester ist mit größeren Niederschlägen zu rechnen. Im Harz werden morgen starke Niederschläge erwartet.
+Schauen wir mal wie es sich auf Bissendorf-Wietze auswirkt. Hoffen wir das es nicht zu arg wird, wir sind aber einigermaßen vorbereitet. 
+Ich stehe im Kontakt mit der Feuerwehr, der Verwaltung, der Avacon und mit Herrn Luttermann von der Abwasser GmbH. Der Austausch läuft sehr gut.
+Allerdings muss noch immer Strom und Trinkwasser gespart werden. Das Strom muss dringend aufrecht erhalten werden. Bitte daran denken jegliche Verbraucher ausschalten. Die Schmutzwasserpumpwerke werden 24/7 immer noch abgepumpt, von daher sparen sie Trinkwasser ein, wo es nur geht. 
+Vielen Dank an die große Unterstützung.
+Heute wurde ich auf Geldspenden angesprochen. Wir werden kurzfristig ein Spendenkonto einrichten. Einige Häuser sind wahrscheinlich nicht mehr bewohnbar, bzw stark Sanierungsbedürftig. Um diesen Menschen etwas zu helfen, würden wir uns freuen wenn Sie uns dort auch unterstützen. Dazu mehr Informationen in Kürze.
+In dieser sehr tollen Gemeinschaft und diesem tollen Zusammenhalt stehen wir es durch. Es geht aber noch weiter.
+In diesem Sinne, wir schaffen das.
+Viele Grüße Daniel Leide
+Ortsbürgermeister Bissendorf-Wietze
+
 WICHTIGER HINWEIS:
 
 Das Stromnetz ist aktuell stark durch das Abpumpen des Wassers beansprucht, dieses läuft auf Höchstlast. Es muss daher dringend Strom gespart werden. Bitte daher alles abschalten, was nicht zwingend benötigt wird.
