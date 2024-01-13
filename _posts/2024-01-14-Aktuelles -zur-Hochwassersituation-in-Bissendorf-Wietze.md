@@ -7,7 +7,7 @@ Daniel Leide hat einen WhatsApp Kanal "Bissendorf-Wietze Hochwasser 2023/24" ers
 
 https://whatsapp.com/channel/0029VaI1KDlHQbS9cnVMhB23
 
-Mitteilungen des Ortsbürgermeisters Daniel Leide:
+Mitteilungen des Ortsbürgermeisters Daniel Leide zur Hochwassersituation (Quelle: Facebook-Posts von Herrn Leide):
 
 "Mal ein kurzer aber eigener Eindruck vor Ort. Ich möchte mich erstmal ganz herzlich bei allen Helfern und Unterstützern bedanken. Wir fahren Sand zu unserer Kirche, jeder kann sich dort soviel wegnehmen wie er braucht. Vielen Dank an Firma Cattau, Firma Butenhoff, Firma Papenburg und zusätzlich fährt mein LKW mit Herrn Tobias Strauß auch noch mit. 
 Mit Hochdruck wird versucht die Abwasserkanäle und Pumpwerke durch abpumpen zu entlasten. Vielen Dank an die Landwirte sie fahren schon seit vielen Tagen 24/7. 
@@ -46,6 +46,15 @@ In dieser sehr tollen Gemeinschaft und diesem tollen Zusammenhalt stehen wir es 
 In diesem Sinne, wir schaffen das.
 Viele Grüße Daniel Leide
 Ortsbürgermeister Bissendorf-Wietze
+
+09.01.2024:
+
+"Sehr geehrte Damen und Herren, 
+die Pegel der Wietze und der Aller sinken langsam weiter ab. Die Aller ist knapp unter der Meldestufe 3 (höchste Meldestufe). Die Lage scheint sich langsam zu entspannen, allerdings sind die Grundwasserstände noch relativ hoch. Wir müssen noch wachsam sein.
+Am Montag, den 15.01.2024 um 19:00 Uhr habe  ich im Bürgerhaus in Bissendorf für uns den Bürgersaal reserviert. Es soll eine Fragestunde für das Verhalten an unseren Gebäuden nach Hochwasser sein. Ein Fachmann für Bauschäden und Bausanierungen, Herr Maik Denecke aus Mellendorf, steht uns dafür zur Verfügung (kein Verkaufsgespräch). Er trägt kurz vor, so dass Ihre Fragen zu dem Thema im Vorrang stehen. Ich würde mich über eine große Teilnehmerzahl freuen. 
+Es war ein großer Zusammenhalt im Dorf und nur dieser hat uns durch die Situation gebracht, diesen Zusammenhalt sollten wir weiter entwickeln und es uns für die Zukunft erleichtern. Wahrscheinlich passiert so etwas immer mal wieder, wenn auch nicht in so einem großen Ausmaß, aber wir sollten gut vorbereitet sein. 
+Bis Montag und mit vielen Grüßen, Daniel Leide"
+
 
 WICHTIGER HINWEIS:
 
