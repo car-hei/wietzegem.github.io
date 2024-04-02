@@ -4,8 +4,8 @@ title: Impressum
 # Impressum
 
 ## Inhaltlich verantwortlich
-Wietze-Gemeinschaft · Ahornweg 2a · 30900 Wedemark<br>
-Telefon 05130 6447 · E-Mail <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#107;&#111;&#110;&#116;&#097;&#107;&#116;&#064;&#119;&#105;&#101;&#116;&#122;&#101;&#103;&#101;&#109;&#101;&#105;&#110;&#115;&#099;&#104;&#097;&#102;&#116;&#046;&#100;&#101;">kontakt(at)wietzegemeinschaft.de</a>
+Wietze-Gemeinschaft · Landwehrwiesen 6 · 30900 Wedemark<br>
+Telefon 0163 1970328 · E-Mail <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#107;&#111;&#110;&#116;&#097;&#107;&#116;&#064;&#119;&#105;&#101;&#116;&#122;&#101;&#103;&#101;&#109;&#101;&#105;&#110;&#115;&#099;&#104;&#097;&#102;&#116;&#046;&#100;&#101;">kontakt(at)wietzegemeinschaft.de</a>
 
 ## Haftungsausschluss
 Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
