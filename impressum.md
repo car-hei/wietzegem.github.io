@@ -4,7 +4,7 @@ title: Impressum
 # Impressum
 
 ## Inhaltlich verantwortlich
-Wietze-Gemeinschaft · Landwehrwiesen 6 · 30900 Wedemark<br>
+Wietze-Gemeinschaft · Landwehrwiesen 20 · 30900 Wedemark<br>
 Telefon 0163 1970328 · E-Mail <a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#107;&#111;&#110;&#116;&#097;&#107;&#116;&#064;&#119;&#105;&#101;&#116;&#122;&#101;&#103;&#101;&#109;&#101;&#105;&#110;&#115;&#099;&#104;&#097;&#102;&#116;&#046;&#100;&#101;">kontakt(at)wietzegemeinschaft.de</a>
 
 ## Haftungsausschluss
