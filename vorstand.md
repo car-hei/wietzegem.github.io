@@ -7,7 +7,7 @@ Für Hinweise, Fragen und Anregungen stehen Ihnen die Mitglieder des Vorstandes 
 <table align=center>
 <tr><td class="funktion">1. Vorsitzende</td><td>Heidrun Miesner<br>Tel. 0163-1970328</td></tr>
 <tr><td class="funktion">2. Vorsitzender</td><td>Thomas Linke<br>Tel. 05130 371087 </td></tr>
-<tr><td class="funktion">Schriftführer</td><td>Carsten Heine<br>Tel. n/a</td></tr>
+<tr><td class="funktion">Schriftführer</td><td>Carsten Heine<br>Tel. 05130 790611 </td></tr>
 <tr><td class="funktion">Kassenwart</td><td>Norman Raulf<br>Tel. 0163-7720061</td></tr>
 </table>
 
