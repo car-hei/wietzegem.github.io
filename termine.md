@@ -3,11 +3,10 @@ title: Termine
 ---
 # Terminkalender
 
-Hier werden zukünftig anstehende Termine und Veranstaltungen aufgeführt.
+Am 07. Juni 2024 um 19:00 Uhr findet unser diesjähriges Matjesessen in der Gaststätte Bludau in Wennebostel statt.
 
-<table align="center">
+Bitte meldet Euch über die bekannten Kanäle beim Vorstand an, wenn Ihr daran teilnehmen möchtet.
 
-<tr><th>Datum</th><th>Veranstaltung</th><th>Ort</th><th>Uhrzeit</th></tr>
 
 <tr>
 <td> </td> <td> </td> <td> </td> <td> </td>
