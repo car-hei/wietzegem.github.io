@@ -14,4 +14,3 @@ title: Aktuelles
   {% endfor %}
 </ul>
 </post>
-
