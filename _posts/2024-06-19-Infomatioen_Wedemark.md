@@ -1,4 +1,6 @@
-layout 	title
-post
+---
+layout: post
+title: test
+---
 	
 Test
